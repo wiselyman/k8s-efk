@@ -363,4 +363,7 @@ kubectl apply -f logging.yml
 
 - 启动客户端代理`kubectl proxy`,访问:`http://localhost:8001/api/v1/namespaces/kube-system/services/kibana-logging/proxy`
 
+![]()
+![]()
+
 
